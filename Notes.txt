@@ -1,0 +1,7 @@
+docker build -t dotnetapp-dev .
+docker run --rm dotnetapp-dev Hello from Docker
+
+mysql on docker :
+ "ConnectionStrings": {
+    "DefaultConnection": "Server=127.0.0.1;Port=3306;Database=BestProductFinds;Uid=root;Pwd=Ozkan!234;"
+  }

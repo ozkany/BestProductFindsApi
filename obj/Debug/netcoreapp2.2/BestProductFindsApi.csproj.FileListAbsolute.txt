@@ -1,0 +1,14 @@
+/Users/ozkanyilmaz/Documents/Projects/BestProductFinds/BestProductFindsApi/bin/Debug/netcoreapp2.2/BestProductFindsApi.deps.json
+/Users/ozkanyilmaz/Documents/Projects/BestProductFinds/BestProductFindsApi/bin/Debug/netcoreapp2.2/BestProductFindsApi.runtimeconfig.json
+/Users/ozkanyilmaz/Documents/Projects/BestProductFinds/BestProductFindsApi/bin/Debug/netcoreapp2.2/BestProductFindsApi.runtimeconfig.dev.json
+/Users/ozkanyilmaz/Documents/Projects/BestProductFinds/BestProductFindsApi/bin/Debug/netcoreapp2.2/BestProductFindsApi.dll
+/Users/ozkanyilmaz/Documents/Projects/BestProductFinds/BestProductFindsApi/bin/Debug/netcoreapp2.2/BestProductFindsApi.pdb
+/Users/ozkanyilmaz/Documents/Projects/BestProductFinds/BestProductFindsApi/obj/Debug/netcoreapp2.2/BestProductFindsApi.csprojAssemblyReference.cache
+/Users/ozkanyilmaz/Documents/Projects/BestProductFinds/BestProductFindsApi/obj/Debug/netcoreapp2.2/BestProductFindsApi.csproj.CoreCompileInputs.cache
+/Users/ozkanyilmaz/Documents/Projects/BestProductFinds/BestProductFindsApi/obj/Debug/netcoreapp2.2/BestProductFindsApi.RazorAssemblyInfo.cache
+/Users/ozkanyilmaz/Documents/Projects/BestProductFinds/BestProductFindsApi/obj/Debug/netcoreapp2.2/BestProductFindsApi.RazorAssemblyInfo.cs
+/Users/ozkanyilmaz/Documents/Projects/BestProductFinds/BestProductFindsApi/obj/Debug/netcoreapp2.2/BestProductFindsApi.AssemblyInfoInputs.cache
+/Users/ozkanyilmaz/Documents/Projects/BestProductFinds/BestProductFindsApi/obj/Debug/netcoreapp2.2/BestProductFindsApi.AssemblyInfo.cs
+/Users/ozkanyilmaz/Documents/Projects/BestProductFinds/BestProductFindsApi/obj/Debug/netcoreapp2.2/BestProductFindsApi.RazorTargetAssemblyInfo.cache
+/Users/ozkanyilmaz/Documents/Projects/BestProductFinds/BestProductFindsApi/obj/Debug/netcoreapp2.2/BestProductFindsApi.dll
+/Users/ozkanyilmaz/Documents/Projects/BestProductFinds/BestProductFindsApi/obj/Debug/netcoreapp2.2/BestProductFindsApi.pdb

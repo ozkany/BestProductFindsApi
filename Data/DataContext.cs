@@ -20,7 +20,8 @@ namespace BestProductFindsApi.Data
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
       // optionsBuilder.UseMySql(_config.GetConnectionString("DefaultConnection"));
-      optionsBuilder.UseSqlite(_config.GetConnectionString("DefaultConnection"));
+      // optionsBuilder.UseSqlite(_config.GetConnectionString("DefaultConnection"));
+      optionsBuilder.UseSqlServer(_config.GetConnectionString("DefaultConnection"));
     }
 
     protected override void OnModelCreating(ModelBuilder builder)
